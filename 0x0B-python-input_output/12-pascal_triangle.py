@@ -2,6 +2,8 @@
 """
 A  module for pascal triangle
 """
+
+
 def pascal_triangle(n):
     """
     function definition
