@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 """
-a module that 
+a module that
 """
 import sys
 
 
 def print_info():
     """
-    function that 
+    function that
     """
     print('File size: {:d}'.format(file_size))
 
