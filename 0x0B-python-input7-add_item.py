@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+a module that add augments and save to a file
+"""
 from os import path
 from sys import argv
 save_to_json_file = __import__('7-save_to_json_file').save_to_json_file
