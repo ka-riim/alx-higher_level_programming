@@ -2,6 +2,8 @@
 """
 A module that appends to a file
 """
+
+
 def append_write(filename="", text=""):
     """
     A function that appends
