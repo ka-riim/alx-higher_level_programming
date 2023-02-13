@@ -1,8 +1,14 @@
 #!/usr/bin/python3
+"""
+a module that 
+"""
 import sys
 
 
 def print_info():
+    """
+    function that 
+    """
     print('File size: {:d}'.format(file_size))
 
     for scode, code_times in sorted(status_codes.items()):
