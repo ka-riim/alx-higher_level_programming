@@ -12,7 +12,7 @@ class MyInt(int):
     """
 
     def __init__(self, my_int):
-        """f
+        """
         or initialize a value my_int
         """
 
