@@ -2,6 +2,8 @@
 """
 A module that opens and read a file
 """
+
+
 def read_file(filename=""):
     """
     a function that opens and prints a file
