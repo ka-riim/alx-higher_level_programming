@@ -1,11 +1,22 @@
 #!/usr/bin/python3
+"""
+class
+"""
+
+
 class Student:
     def __init__(self, first_name, last_name, age):
+        """
+        defining strucy
+        """
         self.first_name = first_name
         self.last_name = last_name
         self.age = age
 
     def to_json(self, attrs=None):
+        """
+        struct def
+        """
         class_d = self.__dict__
         sel_d = dict()
 
