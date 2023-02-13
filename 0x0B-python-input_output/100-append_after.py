@@ -1,5 +1,13 @@
 #!/usr/bin/python3
+"""
+function definition
+"""
+
+
 def append_after(filename="", search_string="", new_string=""):
+    """
+    func definitiong and calib
+    """
     with open(filename, mode='r', encoding='utf-8') as f:
         text = f.readlines()
         new_text = []
