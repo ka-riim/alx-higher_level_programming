@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-"""
-a module that add augments and save to a file
-"""
 from os import path
 from sys import argv
 """
